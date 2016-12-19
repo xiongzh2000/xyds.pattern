@@ -19,7 +19,7 @@ class Singleton
 
     private function __clone()
     {
-        echo __CLASS__ . 'not allow clone' . PHP_EOL;
+        echo __CLASS__ . ' clone is forbidden' . PHP_EOL;
     }
 
     public static function getInstance()
