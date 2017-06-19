@@ -7,7 +7,7 @@
  */
 namespace factory;
 
-class BMW535 implements CareInterface
+class BMW535 implements CarInterface
 {
     public function __construct()
     {

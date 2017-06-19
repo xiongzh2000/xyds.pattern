@@ -8,7 +8,7 @@
 
 namespace factory;
 
-interface  CareInterface
+interface  CarInterface
 {
 
 }
